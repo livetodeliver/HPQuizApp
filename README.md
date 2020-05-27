@@ -12,3 +12,6 @@ The live app can be found [here](https://livetodeliver.github.io/HPQuizApp).
 * Add additional questions
 
 
+*This project was completed as part of [Thinkful's Full-Stack Flex Program](https://www.thinkful.com).*
+
+
